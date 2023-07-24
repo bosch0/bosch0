@@ -11,7 +11,7 @@ I like developing FiveM scripts & Discord bots, and I'm currently learning the e
 </div>
 
 ## Stats
-[![stats](https://github-readme-stats.vercel.app/api?username=bosch0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=bosch0&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📥 Contact me
 If you want to contact me, you can do it on Discord
