@@ -5,6 +5,9 @@ I like developing FiveM scripts and I'm currently learning the essential languag
 <div>
   <img src="https://img.shields.io/badge/Javascript-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=Javascript">
   <img src="https://img.shields.io/badge/Lua-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=Lua&logoColor=%23000080">
+  <img src="https://img.shields.io/badge/HTML%205-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=HTML5">
+  <img src="https://img.shields.io/badge/CSS%203-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=CSS3&logoColor=%231572B6">
+  <img src="https://img.shields.io/badge/Python-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=Python">
 </div>
 
 ## 📥 Contact me
