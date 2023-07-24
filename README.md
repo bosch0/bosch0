@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bosch.
 I like developing FiveM scripts and I'm currently learning the essential languages for it.
 
-## Languages
+## <img src="https://img.shields.io/badge/Javascript-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=Javascript"> Languages
 <img src="https://img.shields.io/badge/Javascript-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=Javascript">
 
 ## 📥 Contact me
