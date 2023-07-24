@@ -10,7 +10,7 @@ I like developing FiveM scripts & Discord bots, and I'm currently learning the e
   <img src="https://img.shields.io/badge/Python-rgb(20%2C%2020%2C%2020)?style=for-the-badge&logo=Python">
 </div>
 
-## Stats
+## 📊 Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=bosch0&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosch0&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
