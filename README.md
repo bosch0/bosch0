@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bosch.
 I like [FiveM](https://fivem.net/) scripting & web development.
 
-## 📎 Languages
+## 🚀 Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
@@ -22,9 +22,7 @@ I like [FiveM](https://fivem.net/) scripting & web development.
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </div>
 
-## 🚀 Technologies & Tools  
-
-- 🎮 **Lua** → Server and script development for **[FiveM](https://fivem.net/)**.  
+- 🎮 **Lua** → Server and script development in **[FiveM](https://fivem.net/)**.  
 - 🌐 **Frontend** → Svelte • React • Vite • HTML5 • CSS3 • JavaScript • TypeScript.  
 - ⚙️ **Backend / DevOps** → Node.js • Bash • Linux (Ubuntu Server).  
 - 🛠️ **Version control** → Git & GitHub.
