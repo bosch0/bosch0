@@ -33,7 +33,7 @@ I like [FiveM](https://fivem.net/) scripting & web development.
 - 📦 **Database management** → MariaDB/MySQL • PostgreSQL.  
 
 ## 📥 Contact me
-If you want to contact me, you can do it through Discord
+If you want to contact me, you can do it through Discord or [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-bosch/)
 <div>
   <a href="https://discord.gg/yMV5A9RBcw">
     <img src="https://img.shields.io/badge/Discord_server-%237289da?style=for-the-badge&logo=Discord&logoColor=white">
