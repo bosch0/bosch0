@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-- :globe_with_meridians: **Frontend** → React • Next.js • Svelte • TypeScript • JavaScript • Tailwind CSS • Vite.
+- :globe_with_meridians: **Frontend** → React • Next.js • Svelte • Angular • TypeScript • JavaScript • Tailwind CSS • Vite.
 - :gear: **Backend** → Node.js • Express • Prisma • PHP • Java • Lua.
 - :package: **Bases de datos** → PostgreSQL • Supabase • MariaDB/MySQL.
 - :computer: **DevOps y herramientas** → Linux (Ubuntu Server) • Bash • Git & GitHub • Vercel • Stripe.
