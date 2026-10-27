@@ -50,6 +50,7 @@
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
 | **Boutique Stays** | Plataforma de reservas para un negocio real de apartamentos (código privado). Disponibilidad en tiempo real, Stripe con webhooks, emails transaccionales, 3 idiomas. [Demo](https://boutique.boscho.tech/) | Next.js 16, Supabase (RLS), Stripe, Resend |
+| **[Dev Sin Experiencia](https://devsinexperiencia.com)** | Mi proyecto para estudiantes de FP de informática (DAW, DAM, ASIR): prácticas y primer empleo. Hero 3D de partículas en canvas, avisos por correo, SEO técnico y analítica solo con consentimiento. | Next.js 16, React, Tailwind v4, Supabase, Resend |
 | **[MD Converter](https://github.com/bosch0/.MD-Converter)** | PDF y DOCX a Markdown limpio, 100 % en el navegador. [Demo](https://md.boscho.tech/) | Svelte, TypeScript, Vite |
 | **[Portfolio](https://github.com/bosch0/Portfolio)** | [boscho.tech](https://boscho.tech): React 19, modo claro/oscuro e i18n hechos a mano. | React, TypeScript, Tailwind v4 |
 | **FiveM (2021 – hoy)** | Hidden RP y OneRPG en producción, Paragon en desarrollo y [BCS Scripts](https://store.boscho.tech), mi tienda de scripts. | Lua, Svelte, React, MariaDB |
